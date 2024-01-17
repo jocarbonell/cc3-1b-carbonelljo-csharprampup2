@@ -134,6 +134,8 @@ public class RampUp2
          
         // RIGHT TRIANGLE
 
+    Console.WriteLine("I. RIGHT TRIANGLE");
+
 int number;
 
 do
@@ -160,6 +162,8 @@ for (int i = 1; i <= number; i++)
 
         // SUMMATION
 
+Console.WriteLine("II. SUMMATION");
+
  Console.Write("Enter a positive integer: ");
         int num = Convert.ToInt32(Console.ReadLine());
 
@@ -183,7 +187,9 @@ for (int i = 1; i <= number; i++)
         
         
         // INVERSED-RIGHT TRIANGLE
-        
+
+Console.WriteLine("III. INVERSED-RIGHT TRIANGLE");
+
         int num3;
 
 do
